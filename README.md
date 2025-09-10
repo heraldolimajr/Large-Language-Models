@@ -1,7 +1,7 @@
 # 🧠 LLM Experiments & Code Snippets
 
 Bem-vindo ao repositório **LLM Experiments & Code Snippets**!  
-Este repositório centraliza exemplos, experimentos e utilitários relacionados a **Large Language Models (LLMs)**, com foco em pesquisa, prototipagem e aplicações práticas em educação, ciência de dados e automação.
+Este repositório centraliza exemplos, experimentos e utilitários relacionados a **Large Language Models (LLMs)**, com foco em pesquisa e aplicações práticas em educação, ciência de dados e automação.
 
 ---
 
@@ -9,8 +9,7 @@ Este repositório centraliza exemplos, experimentos e utilitários relacionados 
 
 O objetivo deste repositório é:
 
-- Reunir códigos de **fine-tuning**, **prompt engineering** e **avaliação** de LLMs.  
-- Servir como base para experimentos envolvendo **ontologias**, **Learning Analytics** e **avaliação baseada em competências**.
+- Reunir códigos de **embbeding**, **fine-tuning**, **prompt engineering** e **avaliação** de LLMs.  
 - Facilitar reuso e documentação de scripts para projetos de pesquisa e ensino.
 
 ---
