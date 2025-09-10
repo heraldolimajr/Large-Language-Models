@@ -23,3 +23,24 @@ O objetivo deste repositório é:
 ├── docs/                # Documentação complementar
 ├── tests/               # Testes automatizados
 └── README.md            # Você está aqui!
+```
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas!
+Para sugerir melhorias, faça um fork deste repositório, crie um branch com sua feature/correção e envie um pull request.
+
+## 📜 Licença
+
+Este projeto está licenciado sob a licença MIT
+.
+Você é livre para usar, modificar e compartilhar, desde que mantenha os devidos créditos.
+
+## 📧 Contato
+
+Criado e mantido por Heraldo Gonçalves Lima Junior
+📬 LinkedIn 
+ • Lattes
+ • E-mail 
+
+> ✨ "Explorando o potencial dos LLMs para transformar educação e pesquisa."
